@@ -1,4 +1,4 @@
-pygame-dxball-
+Python Pygame-DXball
 =============
 
 A simple python game using the pygame module. An attempt to create the famous dxball game.
